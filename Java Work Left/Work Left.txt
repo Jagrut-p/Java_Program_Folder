@@ -1,0 +1,7 @@
+DS 		- String to Char conversion
+DS 		- LeetCode work given by Sir
+DS 		- Class Work of Sunday
+DS 		- Binary and Linear Search (Marks Search System)
+Java 		- Makes notes of Java and write programs left or which you just copied!
+Java 		- Write programs which are in Java Pdf
+JavaScript 	- Talk with Sir for the slot to learn the left topics
